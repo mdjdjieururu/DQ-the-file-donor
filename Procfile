@@ -1,1 +1,1 @@
-worker: python3 -m DQ-the-file-donor
+web: python3 bot.py
